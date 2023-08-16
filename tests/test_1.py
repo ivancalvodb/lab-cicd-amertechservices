@@ -57,4 +57,5 @@ def test_unity_catalog_objects(ws_conn):
 
     assert assert_flag
 
-
+def test_random():
+    assert True

@@ -25,7 +25,7 @@ workspace:
 resources:
   pipelines:
     etl-dlt-sensors-pipeline:
-      name: "[${bundle.environment}] Sensors medallion ETL pipeline"
+      name: "[${bundle.environment}] IvanCalvo Sensors medallion ETL pipeline"
       continuous: false
       channel: "CURRENT"
  
